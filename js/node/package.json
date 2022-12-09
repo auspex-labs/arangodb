@@ -35,7 +35,7 @@
     "vary": "1.1.2"
   },
   "devDependencies": {
-    "@xmldom/xmldom": "^0.8.0",
+    "@xmldom/xmldom": "^0.8.3",
     "ansi_up": "5.0.1",
     "eslint": "5.16.0",
     "parse-prometheus-text-format": "1.1.1"
